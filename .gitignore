@@ -97,3 +97,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+boyvsgirl/test.csv
+boyvsgirl/train.csv
