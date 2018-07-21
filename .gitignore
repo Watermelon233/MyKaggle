@@ -111,7 +111,7 @@ hymenoptera_data/train
 hymenoptera_data/val
 payrisk/submit.csv
 SantanerValue/data
-
+homecredit/data
 #
 .ipynb_checkpoints
 *.pkl
